@@ -7,7 +7,7 @@ permalink:	/:categories/:title
 title:            test
 tagline:          'blog'
 description:      'My personal blog.'
-url:              http://fahimazulfath.github.io
+url:              http://fahimazulfath.github.io/test/
 baseurl:          
 commentsystem:    google
 disqus:           example
